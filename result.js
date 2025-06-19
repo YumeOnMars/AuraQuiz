@@ -11,7 +11,7 @@ homeBtn.addEventListener("click", function() {
     resetScore();
 });
 
-if (aurascore < 80) {
+if (aurascore > 80) {
     rank.textContent = "Rank: Sigma (Mohammed)";
 }
 
