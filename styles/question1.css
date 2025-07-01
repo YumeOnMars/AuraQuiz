@@ -2,7 +2,7 @@ body {
     width: 100vw;
     margin: 0px;
     padding: 0px;
-    background-image: url(/images/questionbackground.jpg);
+    background-image: url(../images/questionbackground.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -10,7 +10,7 @@ body {
 .pagediv {
     display:flex;
     width: 100vw;
-    height: 100vh;
+    height: 100vh;  
     justify-content: center;
     align-items: center;
 }
